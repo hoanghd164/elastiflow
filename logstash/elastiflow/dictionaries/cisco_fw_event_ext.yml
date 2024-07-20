@@ -1,0 +1,5 @@
+"0": "Ignore"
+"1001": "Flow Denied Ingress ACL"
+"1002": "Flow Denied Egress ACL"
+"1003": "Flow Denied Connection to Interface Service"
+"1004": "Flow Denied First Packet Not SYN"
